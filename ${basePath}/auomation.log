@@ -1,0 +1,159 @@
+21:17:27.813 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:17:28.177 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:17:32.813 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+21:17:32.848 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+21:17:32.999 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+21:17:33.345 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+21:17:33.352 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+21:17:34.711 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+21:17:37.230 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+21:17:37.743 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+21:17:38.120 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+21:17:39.168 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+21:25:51.194 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:25:51.573 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:26:26.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:26:27.118 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:27:27.074 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:27:27.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:27:30.672 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+21:27:30.707 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+21:27:30.867 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+21:27:31.188 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+21:27:31.192 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+21:27:32.397 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+21:27:34.689 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+21:27:35.236 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+21:27:35.618 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+21:27:36.478 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+21:29:23.155 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:29:23.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:29:26.871 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+21:29:26.898 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+21:29:27.056 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+21:29:27.629 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+21:29:27.632 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+21:29:29.011 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+21:29:31.354 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+21:29:31.915 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+21:29:32.289 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+21:29:33.363 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+21:36:18.362 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:36:18.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:36:21.734 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+21:36:21.765 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+21:36:21.823 [main] ERROR TestCases.Tc_VerifyAccountRegister - Test failed
+21:36:21.823 [main] DEBUG TestCases.Tc_VerifyAccountRegister - Debug logs
+21:36:23.717 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+21:38:01.354 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:38:01.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:38:02.101 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+21:38:02.147 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+21:38:02.148 [main] ERROR TestCases.Tc_VerifyAccountRegister - Test failed
+21:38:02.148 [main] DEBUG TestCases.Tc_VerifyAccountRegister - Debug logs
+21:38:02.226 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+21:38:38.467 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+21:38:38.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+21:38:42.186 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+21:38:42.215 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+21:38:42.374 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+21:38:42.694 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+21:38:42.706 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+21:38:46.005 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+21:38:48.379 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+21:38:48.937 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+21:38:49.296 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+21:38:50.053 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+23:35:19.984 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+23:35:20.463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+01:14:56.045 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+01:14:56.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+01:15:00.358 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+01:15:00.403 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+01:15:00.554 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+01:15:00.877 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+01:15:00.886 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+01:15:02.100 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+01:15:04.609 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+01:15:05.154 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+01:15:05.521 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+01:15:06.404 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+01:18:57.110 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+01:18:57.501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+01:19:01.982 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+01:19:02.029 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+01:19:02.224 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+01:19:02.686 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+01:19:02.691 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+01:19:04.428 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+01:19:06.764 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+01:19:07.343 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+01:19:07.778 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+01:19:08.657 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+14:14:57.482 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\dockergrid.xml"
+14:14:58.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\dockergrid.xml
+
+14:14:59.106 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+14:14:59.149 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+14:14:59.149 [main] ERROR TestCases.Tc_VerifyAccountRegister - Test failed
+14:14:59.149 [main] DEBUG TestCases.Tc_VerifyAccountRegister - Debug logs
+14:14:59.226 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+14:20:17.838 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+14:20:18.387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+14:28:58.816 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+14:28:59.234 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+14:29:20.172 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+14:29:20.213 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+14:29:20.445 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+14:29:20.911 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+14:29:20.916 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+14:29:22.354 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+14:29:25.561 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+14:29:26.306 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+14:29:26.735 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+14:29:27.815 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+14:41:26.343 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml"
+14:41:26.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\master.xml
+
+14:41:37.651 [main] INFO  TestCases.Tc_VerifyAccountRegister - ***Starting the log content
+14:41:37.685 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the click my account
+14:41:37.866 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the register clicking
+14:41:38.288 [main] INFO  TestCases.Tc_VerifyAccountRegister - ****Starting the AccountRegister page****
+14:41:38.293 [main] INFO  TestCases.Tc_VerifyAccountRegister - This is the all register details
+14:41:39.646 [main] INFO  TestCases.Tc_VerifyAccountRegister - Finished the case sucessfully
+14:41:46.367 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account details
+14:41:46.983 [main] INFO  TestCases.Tc_verifyLoginPage - Entering the Login details
+14:41:47.448 [main] INFO  TestCases.Tc_verifyLoginPage - Starting the My account is dispalyed
+14:41:48.383 [main] INFO  TestCases.Tc_verifyLoginPage - Finished the login test case
+22:51:02.324 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\Desktop\Open_Cart\OpenCart\dockergrid.xml"
+22:51:03.272 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\Desktop\Open_Cart\OpenCart\dockergrid.xml
+
